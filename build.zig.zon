@@ -7,12 +7,12 @@
             .hash = "1220aa57a3de92ed8500d31b6ead1168ca27d76d6e2be1e3f8e0846887eb8da31dda",
         },
         .raylib_zig = .{
-            .url = "https://github.com/mattnite/raylib-zig/archive/35924f5148ce9dbf8d3482ee11f90d62e71acc38.tar.gz",
-            .hash = "122045dde46149c6babf584d47c6cd6ad5da7111847518e6c434e1ed4550159ce3c2",
+            .url = "https://github.com/platypro/raylib-zig/archive/8bd83e81d217cf6dbaf14c0eda6b79a78c1c3173.tar.gz",
+	        .hash = "12203abfc710d1891892f1a91190bfa3027d66a0eabfd5604013ad482224e3529cbb",
         },
         .raylib = .{
-            .url = "https://github.com/raysan5/raylib/archive/2e00d16f3d3808defe76d9af75df2dd714c66af2.tar.gz",
-            .hash = "12201bd4deaec52ec980be7ab83954c49aedf91bc43473720a8bb00f0251031472c9",
+            .url = "https://github.com/raysan5/raylib/archive/e0c80f5ddd9543a6f086f3871f886e275c331a53.tar.gz",
+            .hash = "122073b25a28091cf590b09b972ce7307fc288adc9d746d697cc255c9befee6c4a5f",
         },
         .uf2 = .{
             .url = "https://github.com/ZigEmbeddedGroup/uf2/archive/206c027ee4c5eaf409b7bcbce86339c97b4926a6.tar.gz",
